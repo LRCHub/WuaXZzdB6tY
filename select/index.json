@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "地獄はどこですエンマさま",
+  "base_artist": "羽生まゐご",
+  "createdAt": "2026-02-12T14:16:30.063909Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地獄はどこですエンマさま",
+      "artist": "羽生まゐご",
+      "has_synced": false,
+      "path": "select/pl_01_地獄はどこですエンマさま_羽生まゐご.txt"
+    }
+  ]
+}
